@@ -1,1 +1,16 @@
-
+<Bug_report>
+	<P1>"Summary: "</P1>
+	<P2>"Project: "</P2>
+	<P3>"Component: "</P3>
+	<P4>"Version: "</P4>
+	<P5>"Severity: "</P5>
+	<P6>"Priority: "</P6>
+	<P7>"Status: "</P7>
+	<P8>"Author: "</P8>
+	<P9>"Assigned To: "</P9>
+	<P10>"Environment: "</P10>
+	<P11>"Step to reproduce(STR): "</P11>
+	<P12>"Actual result(AR): "</P12>
+	<P13>"Expected result(ER): "</P13>
+	<P14>"Attachment: "</P14>
+</Bug_report>
